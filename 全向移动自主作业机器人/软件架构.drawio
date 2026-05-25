@@ -1,0 +1,307 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="KCsAUFGOWVBKNTEjvk4M">
+    <mxGraphModel dx="1117" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="170" width="1080.32" x="59.68" y="-600" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="220" width="1080" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="230" width="1080" x="60" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="200" x="77.34" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="" vertex="1">
+          <mxGeometry height="260" width="1080.32" x="59.68000000000001" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="250" width="1080.32" x="59.68" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="190" width="325" x="560" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="190" width="90" x="900" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="190" width="100" x="1005.0000000000001" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="190" width="470" x="80" y="-130" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="297.34" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="150" width="405" x="496.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="150" width="390" x="86.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="150" width="190" x="931.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="130" width="260" x="860" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="130" width="350" x="500" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="130" width="260" x="220" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="130" width="120" x="85" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="主控单元" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="STM32F407VET6" vertex="1">
+          <mxGeometry height="30" width="110" x="90" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="执行单元" vertex="1">
+          <mxGeometry height="30" width="80" x="230" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="惯性测量: MPU6050 六轴惯性测量单元" vertex="1">
+          <mxGeometry height="30" width="250" x="510" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="底盘: 4个MC520 直流减速编码器电机 + 麦轮" vertex="1">
+          <mxGeometry height="30" width="240" x="230" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="云台: GM6020 云台电机&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="240" x="230" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="作业机构(预留): 机械臂/夹爪等" vertex="1">
+          <mxGeometry height="30" width="240" x="230" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="视觉感知: RK5288 (深度摄影机, 运行OpenCV + 轻量化YOLO)" vertex="1">
+          <mxGeometry height="30" width="340" x="510" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="状态感知: 电机编码器, 电池电压检测, 蓝牙接收器, ps2接收器" vertex="1">
+          <mxGeometry height="30" width="340" x="510" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="扩展感知: CAN2总线预留(激光雷达, 超声波等)" vertex="1">
+          <mxGeometry height="30" width="340" x="510" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="感知单元" vertex="1">
+          <mxGeometry height="30" width="80" x="510" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="人机交互单元" vertex="1">
+          <mxGeometry height="30" width="120" x="860" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="OLED显示屏, 物理按键, PS2, 蓝牙控制软件" vertex="1">
+          <mxGeometry height="30" width="250" x="875" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="硬件层: Hardware Layer" vertex="1">
+          <mxGeometry height="30" width="260" x="70" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="驱动层: Driver Layer" vertex="1">
+          <mxGeometry height="30" width="260" x="70" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="片上外设驱动&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(基于HAL二次封装)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="86.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="外部设备驱动" vertex="1">
+          <mxGeometry height="30" width="100" x="511.25" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="硬件抽象接口 (HAL)" vertex="1">
+          <mxGeometry height="30" width="140" x="956.25" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="通信类: UART(DMA), SPI, I2C, CAN, DMA&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="260" x="106.25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="控制类: GPIO, TIM(PWM), ADC&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="260" x="106.25" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="系统类: 内部FLASH, IWDG, WWDG, Systick" vertex="1">
+          <mxGeometry height="30" width="260" x="106.25" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="传感器驱动: MPU6050 (I2C)" vertex="1">
+          <mxGeometry height="30" width="180" x="506.25" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="电机驱动:&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;MC520,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;GM6020&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;(PWM)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="230" x="501.25" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="通信驱动: RSP8266 AT指令驱动, nRF24L01 SPI驱动" vertex="1">
+          <mxGeometry height="30" width="300" x="511.25" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1n6vllx4ypIQMGm5zSrb-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="交互驱动: OLED, PS2输入驱动&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="220" x="496.25" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="操作系统层: OS Layer" vertex="1">
+          <mxGeometry height="30" width="260" x="70.63" y="-170" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="FreeRTOS 任务调度" vertex="1">
+          <mxGeometry height="30" width="180" x="100" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="同步互斥" vertex="1">
+          <mxGeometry height="30" width="70" x="580" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="内存管理" vertex="1">
+          <mxGeometry height="30" width="70" x="915" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="时间管理" vertex="1">
+          <mxGeometry height="30" width="65" x="1022.5000000000001" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="中间件层: Middleware Layer" vertex="1">
+          <mxGeometry height="30" width="260" x="72.34" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="数据融合与姿态解算模块" vertex="1">
+          <mxGeometry height="30" width="180" x="87.34" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="电机控制&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;9&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1ms&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="180" y="-75" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="姿态解算&lt;br&gt;&lt;div&gt;10&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="97.34" y="-75" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CAN总线收发&lt;div&gt;8&lt;/div&gt;&lt;div&gt;中断触发&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="80" x="275" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="视觉通信&lt;br&gt;&lt;div&gt;7&lt;/div&gt;&lt;div&gt;中断触发(DMA)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="370" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="系统监控&lt;div&gt;6&lt;/div&gt;&lt;div&gt;10ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="480" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="WiFi通信&lt;div&gt;4&lt;/div&gt;&lt;div&gt;20ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="177.34" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="传感器管理&lt;div&gt;5&lt;/div&gt;&lt;div&gt;5ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="97.34" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="人机交互&lt;div&gt;3&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="277.34" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="数据存储&lt;div&gt;3&lt;/div&gt;&lt;div&gt;事件触发&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="370" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="多机协同&lt;div&gt;1&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="70" x="480" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="消息队列:&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;传递姿态解算,电机指令,视觉结果,状态信息&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="295" x="575" y="-80" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="信号量: 用于DMA传输完成,CAN接收完成,中断任务同步" vertex="1">
+          <mxGeometry height="30" width="310" x="575" y="-40" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="事件组: 用于模式切换, 异常事件处理" vertex="1">
+          <mxGeometry height="30" width="310" x="575" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="运动控制模块" vertex="1">
+          <mxGeometry height="30" width="105" x="337.34" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="目标跟踪与轨迹预测模块" vertex="1">
+          <mxGeometry height="30" width="175" x="512.34" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="通信协议栈" vertex="1">
+          <mxGeometry height="30" width="110" x="742.34" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="系统管理与可靠性模块" vertex="1">
+          <mxGeometry height="30" width="145" x="924.84" y="-360" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CAN协议" vertex="1">
+          <mxGeometry height="30" width="80" x="747.34" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="视觉UART协议" vertex="1">
+          <mxGeometry height="30" width="110" x="747.34" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="WiFi TCP/UDP协议" vertex="1">
+          <mxGeometry height="30" width="110" x="747.34" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="2.4G多机协议" vertex="1">
+          <mxGeometry height="30" width="110" x="747.34" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="模式管理" vertex="1">
+          <mxGeometry height="30" width="80" x="932.34" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="CAN总线管理" vertex="1">
+          <mxGeometry height="30" width="80" x="932.34" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="异常处理" vertex="1">
+          <mxGeometry height="30" width="80" x="932.34" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="数据存储管理" vertex="1">
+          <mxGeometry height="30" width="80" x="932.34" y="-230" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Mahony互补滤波算法" vertex="1">
+          <mxGeometry height="30" width="120" x="97.34" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-46" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="实时欧拉角" vertex="1">
+          <mxGeometry height="30" width="120" x="97.34" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="传感器零偏校准, 温度补偿" vertex="1">
+          <mxGeometry height="30" width="150" x="97.34" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="麦轮运动学逆解算" vertex="1">
+          <mxGeometry height="30" width="120" x="337.34" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="双环PID控制" vertex="1">
+          <mxGeometry height="30" width="120" x="337.34" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="运动模式实现" vertex="1">
+          <mxGeometry height="30" width="120" x="337.34" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="解析视觉识别结果" vertex="1">
+          <mxGeometry height="30" width="120" x="512.34" y="-320" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="计算目标相对于机器人的速度与位置" vertex="1">
+          <mxGeometry height="30" width="195" x="512.34" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="一阶卡尔曼滤波轨迹预测" vertex="1">
+          <mxGeometry height="30" width="195" x="512.34" y="-260" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="230" x="497.34" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="140" x="737.34" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="190" x="897.34" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=18;fontStyle=1" value="应用层: Application Layer" vertex="1">
+          <mxGeometry height="30" width="260" x="73.59" y="-580" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="自主导航模块" vertex="1">
+          <mxGeometry height="30" width="142.66" x="170.93" y="-521" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="自主作业模块" vertex="1">
+          <mxGeometry height="30" width="142.66" x="392.25999999999993" y="-521" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-68" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="多机协同模块" vertex="1">
+          <mxGeometry height="30" width="142.66" x="608.2700000000001" y="-521" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-69" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;fontStyle=1" value="人机交互模块" vertex="1">
+          <mxGeometry height="30" width="142.66" x="837.34" y="-521" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="153.59" y="-531" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="373.59" y="-531" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="591.2700000000001" y="-531" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-73" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="50" width="130" x="814.84" y="-531" as="geometry" />
+        </mxCell>
+        <mxCell id="T-HtRSF-r_PwToLRBl-V-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=24;fontStyle=1" value="全向移动自主作业机器人 软件架构图" vertex="1">
+          <mxGeometry height="30" width="417.66" x="72.34" y="-650" as="geometry" />
+        </mxCell>
+        <mxCell id="sUiTlmFtoP9VWutH3Fo--1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="180" width="180" x="79.99999999999997" y="-370" as="geometry" />
+        </mxCell>
+        <mxCell id="sUiTlmFtoP9VWutH3Fo--2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="电机驱动:&amp;nbsp;&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="240" x="230" y="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

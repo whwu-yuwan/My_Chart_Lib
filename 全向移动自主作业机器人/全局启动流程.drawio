@@ -1,0 +1,43 @@
+<mxfile host="Electron">
+  <diagram name="第 1 页" id="mlzskWqLcjNb4GEwh9sD">
+    <mxGraphModel dx="1340" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ugAQPLbvgw7YGITP5IGJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上电" vertex="1">
+          <mxGeometry height="30" width="80" x="160" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电机控制&lt;div&gt;9&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;&lt;div&gt;512words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="260" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="姿态解算&lt;br&gt;&lt;div&gt;10&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;&lt;div&gt;512words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="130" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAN总线收发&lt;br&gt;&lt;div&gt;8&lt;/div&gt;&lt;div&gt;中断触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="389" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉通信&lt;br&gt;&lt;div&gt;7&lt;/div&gt;&lt;div&gt;DMA中断触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="520" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统监控&lt;br&gt;&lt;div&gt;6&lt;/div&gt;&lt;div&gt;10ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="649" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WiFi通信&lt;br&gt;&lt;div&gt;5&lt;/div&gt;&lt;div&gt;20ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="130" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="传感器管理&lt;br&gt;&lt;div&gt;4&lt;/div&gt;&lt;div&gt;5ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="260" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="人机交互&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="391" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多机协同&lt;br&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="649" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="XoZiD9KkPNkMyNuQyKy7-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据存储&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;事件触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="106" x="520" y="480" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
