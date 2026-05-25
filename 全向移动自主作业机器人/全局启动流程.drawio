@@ -1,41 +1,79 @@
 <mxfile host="Electron">
   <diagram name="第 1 页" id="mlzskWqLcjNb4GEwh9sD">
-    <mxGraphModel dx="1340" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2244" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ugAQPLbvgw7YGITP5IGJ-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上电" vertex="1">
-          <mxGeometry height="30" width="80" x="160" y="170" as="geometry" />
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="490" width="320" x="-70" y="-10" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-10" edge="1" parent="1" source="ugAQPLbvgw7YGITP5IGJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G7zmQVtyn0GGWo8TwTtI-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ugAQPLbvgw7YGITP5IGJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="硬件上电与CPU复位" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="30" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="电机控制&lt;div&gt;9&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;&lt;div&gt;512words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="260" y="390" as="geometry" />
+          <mxGeometry height="80" width="106" x="410" y="690" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="姿态解算&lt;br&gt;&lt;div&gt;10&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;&lt;div&gt;512words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="130" y="390" as="geometry" />
+          <mxGeometry height="80" width="106" x="280" y="690" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CAN总线收发&lt;br&gt;&lt;div&gt;8&lt;/div&gt;&lt;div&gt;中断触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="389" y="390" as="geometry" />
+          <mxGeometry height="80" width="106" x="539" y="690" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="视觉通信&lt;br&gt;&lt;div&gt;7&lt;/div&gt;&lt;div&gt;DMA中断触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="520" y="390" as="geometry" />
+          <mxGeometry height="80" width="106" x="670" y="690" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统监控&lt;br&gt;&lt;div&gt;6&lt;/div&gt;&lt;div&gt;10ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="649" y="390" as="geometry" />
+          <mxGeometry height="80" width="106" x="799" y="690" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="WiFi通信&lt;br&gt;&lt;div&gt;5&lt;/div&gt;&lt;div&gt;20ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="130" y="480" as="geometry" />
+          <mxGeometry height="80" width="106" x="280" y="780" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="传感器管理&lt;br&gt;&lt;div&gt;4&lt;/div&gt;&lt;div&gt;5ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="260" y="480" as="geometry" />
+          <mxGeometry height="80" width="106" x="410" y="780" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="人机交互&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="391" y="480" as="geometry" />
+          <mxGeometry height="80" width="106" x="541" y="780" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="多机协同&lt;br&gt;&lt;div&gt;1&lt;/div&gt;&lt;div&gt;50ms&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="649" y="480" as="geometry" />
+          <mxGeometry height="80" width="106" x="799" y="780" as="geometry" />
         </mxCell>
         <mxCell id="XoZiD9KkPNkMyNuQyKy7-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="数据存储&lt;br&gt;&lt;div&gt;3&lt;/div&gt;&lt;div&gt;事件触发&lt;/div&gt;&lt;div&gt;256words&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="106" x="520" y="480" as="geometry" />
+          <mxGeometry height="80" width="106" x="670" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-11" edge="1" parent="1" source="G7zmQVtyn0GGWo8TwTtI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G7zmQVtyn0GGWo8TwTtI-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="板级硬件初始化" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-12" edge="1" parent="1" source="G7zmQVtyn0GGWo8TwTtI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G7zmQVtyn0GGWo8TwTtI-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="FreeRTOS内核初始化&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-14" edge="1" parent="1" source="G7zmQVtyn0GGWo8TwTtI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="G7zmQVtyn0GGWo8TwTtI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="创建并启动初始化任务" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="系统进入正常运行状态" vertex="1">
+          <mxGeometry height="30" width="150" x="70" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-26" edge="1" parent="1" source="G7zmQVtyn0GGWo8TwTtI-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;div&gt;启动任务&lt;/div&gt;&lt;div&gt;11&lt;/div&gt;&lt;div&gt;1ms&lt;/div&gt;&lt;div&gt;1024words&lt;/div&gt;&lt;div&gt;生命周期：一次性&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="106" x="92" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="G7zmQVtyn0GGWo8TwTtI-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="-30" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
